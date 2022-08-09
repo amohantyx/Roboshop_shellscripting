@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ##### Change these values ###
-ZONE_ID="Z080600234ZUEKDP4RGN8"
-SG_NAME="allow-all-to-public"
+ZONE_ID="Z0954859QY10J70NCH77"
+SG_NAME="sg-07858befff6f2183a"
 #############################
 
 
